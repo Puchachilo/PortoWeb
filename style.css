@@ -183,7 +183,7 @@ nav ul li a:hover::after{
 
 .tabcontent ul li span{
     color : #50b8e7;
-    font-size: 25px;
+    font-size: 20px;
     justify-content: space-between; 
 }
 
@@ -296,7 +296,7 @@ nav ul li a:hover::after{
 
 .fproject-list{
     display: grid;
-    grid-template-columns: repeat(auto-fit,minmax(200px,1fr));
+    grid-template-columns: 450px;
     grid-gap: 40px;
     margin-top: 50px;
 }
